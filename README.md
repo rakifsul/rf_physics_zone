@@ -3,3 +3,7 @@
 [README dengan Bahasa Indonesia Klik di Sini](https://github.com/rakifsul/rf_physics_zone/blob/main/README_id.md)
 
 Not ready yet...
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul/info
